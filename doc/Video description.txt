@@ -1,0 +1,4 @@
+This video introduces the following points:
+1. Add rtsp video stream for age and gender estimation.
+2. View the histogram of customer traffic statistics
+3. Use Snapdragon Profiler tool to analyze CPU, memory, network, etc.
